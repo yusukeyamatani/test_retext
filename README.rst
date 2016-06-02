@@ -74,3 +74,9 @@ Create environment requirement
 
     -r base.txt
     pytest==2.7.0
+    
+Copyright
+------------
+
+Copyright - Copyright (C) 2016 gumi Inc.    
+    
